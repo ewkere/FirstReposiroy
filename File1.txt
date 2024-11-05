@@ -1,4 +1,4 @@
-abcf
+line from User2
 !!!
 line from user1
 123
