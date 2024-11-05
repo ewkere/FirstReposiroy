@@ -1,4 +1,4 @@
-abcf
+line from User2
 !!!
 from branch master
 123
